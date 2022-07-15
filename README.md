@@ -1,0 +1,3 @@
+# PatikaVeriAlgoritmalari
+
+### Teşekkürler Serap
